@@ -6,7 +6,7 @@
 
 ### 问题1: 任务操作目录设置
 
-![img.png](../resources/img.png)
+![img.png](../resources/定时任务编辑界面.png)
 
 以下是几个参数需要填写的内容:
 
